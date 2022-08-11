@@ -1,0 +1,13 @@
+223555
+
+stampa 5 3
+
+no, è un valore e lo stiamo trattando come indirizzo
+
+&a=2
+b=5
+a=2+5=7
+b++; b=6
+
+stampa 7 e 5
+

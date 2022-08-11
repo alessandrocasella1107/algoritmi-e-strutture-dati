@@ -1,0 +1,16 @@
+ALE
+
+si, stampa L
+
+
+no viene trattata come indirizzo ma è un valore
+
+
+no
+
+func(&m , a)
+c=m
+a=a
+b=a
+
+a and a
